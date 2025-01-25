@@ -84,6 +84,10 @@ support = true
       type = "pwa-node"
 
 [[ports]]
+localPort = 36857
+externalPort = 3001
+
+[[ports]]
 localPort = 39491
 externalPort = 80
 
